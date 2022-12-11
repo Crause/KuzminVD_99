@@ -1,4 +1,4 @@
 *.sln
 ProjectForGit/bin
 ProjectForGit/obj
-/.vs/
+.vs
